@@ -18,7 +18,7 @@ var page_txt = {
     reset_txt : 'Reset',
     search_itemnum_txt : 'Search with Item Number',
     find_item_txt : 'Find Item',
-    find_item_txt : 'Find Item',
+   // find_item_txt : 'Sear Item',
     itemdatefrom_txt : 'Date From: ',
     itemdateto_txt : 'Date To: ',
     add_item_txt : 'Add Item',
